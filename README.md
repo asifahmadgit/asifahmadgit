@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asif Ahmad</h1>
-<h3 align="center">First-year Computer Science & Engineering student</h3>
+<h3 align="center">Computer Science & Engineering student</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
